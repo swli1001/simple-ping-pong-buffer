@@ -1,0 +1,144 @@
+
+        SystemC 2.3.3-Accellera --- Jul  4 2021 14:16:35
+        Copyright (c) 1996-2018 by all Contributors,
+        ALL RIGHTS RESERVED
+
+
+0 s: <W1> V
+1 s: <W1> i
+2 s: <W1> s
+3 s: <W1> i
+4 s: <W1> t
+5 s: <W1>  
+6 s: <W1> w
+7 s: <W1> w
+8 s: <W1> w
+9 s: <W1> .
+		9 s: <R1> V
+10 s: <W2> a
+		10 s: <R1> i
+11 s: <W2> c
+		11 s: <R1> s
+12 s: <W2> c
+		12 s: <R1> i
+13 s: <W2> e
+		13 s: <R1> t
+14 s: <W2> l
+		14 s: <R1>  
+15 s: <W2> l
+		15 s: <R1> w
+16 s: <W2> e
+		16 s: <R1> w
+17 s: <W2> r
+		17 s: <R1> w
+18 s: <W2> a
+		18 s: <R1> .
+19 s: <W2> .
+		19 s: <R2> a
+20 s: <W1> o
+		20 s: <R2> c
+21 s: <W1> r
+		21 s: <R2> c
+22 s: <W1> g
+		22 s: <R2> e
+23 s: <W1>  
+		23 s: <R2> l
+24 s: <W1> a
+		24 s: <R2> l
+25 s: <W1> n
+		25 s: <R2> e
+26 s: <W1> d
+		26 s: <R2> r
+27 s: <W1>  
+		27 s: <R2> a
+28 s: <W1> s
+		28 s: <R2> .
+29 s: <W1> e
+		29 s: <R1> o
+30 s: <W2> e
+		30 s: <R1> r
+31 s: <W2>  
+		31 s: <R1> g
+32 s: <W2> w
+		32 s: <R1>  
+33 s: <W2> h
+		33 s: <R1> a
+34 s: <W2> a
+		34 s: <R1> n
+35 s: <W2> t
+		35 s: <R1> d
+36 s: <W2>  
+		36 s: <R1>  
+37 s: <W2> S
+		37 s: <R1> s
+38 s: <W2> y
+		38 s: <R1> e
+39 s: <W2> s
+		39 s: <R2> e
+40 s: <W1> t
+		40 s: <R2>  
+41 s: <W1> e
+		41 s: <R2> w
+42 s: <W1> m
+		42 s: <R2> h
+43 s: <W1> C
+		43 s: <R2> a
+44 s: <W1>  
+		44 s: <R2> t
+45 s: <W1> c
+		45 s: <R2>  
+46 s: <W1> a
+		46 s: <R2> S
+47 s: <W1> n
+		47 s: <R2> y
+48 s: <W1>  
+		48 s: <R2> s
+49 s: <W1> d
+		49 s: <R1> t
+50 s: <W2> o
+		50 s: <R1> e
+51 s: <W2>  
+		51 s: <R1> m
+52 s: <W2> f
+		52 s: <R1> C
+53 s: <W2> o
+		53 s: <R1>  
+54 s: <W2> r
+		54 s: <R1> c
+55 s: <W2>  
+		55 s: <R1> a
+56 s: <W2> y
+		56 s: <R1> n
+57 s: <W2> o
+		57 s: <R1>  
+58 s: <W2> u
+		58 s: <R1> d
+59 s: <W2>  
+		59 s: <R2> o
+60 s: <W1> t
+		60 s: <R2>  
+61 s: <W1> o
+		61 s: <R2> f
+62 s: <W1> d
+		62 s: <R2> o
+63 s: <W1> a
+		63 s: <R2> r
+64 s: <W1> y
+		64 s: <R2>  
+65 s: <W1> !
+		65 s: <R2> y
+66 s: <W1> 
+
+		66 s: <R2> o
+		67 s: <R2> u
+		68 s: <R2>  
+		69 s: <R1> t
+		70 s: <R1> o
+		71 s: <R1> d
+		72 s: <R1> a
+		73 s: <R1> y
+		74 s: <R1> !
+		75 s: <R1> 
+
+
+Info: /OSCI/SystemC: Simulation stopped by user.
