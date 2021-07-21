@@ -66,7 +66,6 @@ class fifo : public sc_channel, public write_if, public read_if
     bool get_end(){
       if (end && num_elements1 == 0 && num_elements2 == 0){ return true; }
       else { return false; }
-      //return end;
     }
 
   private:
@@ -84,7 +83,7 @@ class producer : public sc_module
 {
   public:
     sc_port<write_if> out;
-    //sc_port<sc_signal_in_if<bool> > clk;
+    //sc_port<sc_signal_in_if<bool> > clk; sensitive << clk;
     sc_in_clk clk;
 
     SC_HAS_PROCESS(producer);
@@ -97,7 +96,7 @@ class producer : public sc_module
 
     void main()
     {    
-     wait(SC_ZERO_TIME);
+      wait(SC_ZERO_TIME);
       const char *str = "Visit www.accellera.org and see what SystemC can do for you today!\n";      
 
       while(*str){
@@ -105,7 +104,6 @@ class producer : public sc_module
         wait();
       }
       out->let_end();
-      //cout << "<end>" << flush;
     }
 };
 
